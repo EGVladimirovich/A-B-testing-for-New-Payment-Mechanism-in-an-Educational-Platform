@@ -1,9 +1,9 @@
 # Pet project A/B testing for New Payment Mechanism in an Educational Platform
-*Introduction
+#Introduction
 
 This project focused on conducting A/B testing to evaluate the impact of a new payment mechanism on user behavior and revenue metrics in an educational platform. The goal was to determine whether the new payment mechanism should be launched for all users based on the analysis of key metrics.
 
-**Data Extraction and Preparation**
+##Data Extraction and Preparation
 
 The first step involved extracting and preparing the necessary data for analysis. Four CSV files were used as input data, containing information about user group assignments, additional user data, user activity, and user payments during the experiment. Python libraries such as Pandas, Matplotlib, Seaborn, and NumPy were utilized for data manipulation and visualization.
 

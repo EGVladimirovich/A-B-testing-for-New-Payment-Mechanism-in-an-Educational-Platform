@@ -1,5 +1,5 @@
 # Pet project A/B testing for New Payment Mechanism in an Educational Platform
-**Introduction**
+*Introduction
 
 This project focused on conducting A/B testing to evaluate the impact of a new payment mechanism on user behavior and revenue metrics in an educational platform. The goal was to determine whether the new payment mechanism should be launched for all users based on the analysis of key metrics.
 
